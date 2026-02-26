@@ -1,0 +1,6 @@
+2026-02-26 20:42:45,735 - INFO - Chat session created successfully
+2026-02-26 20:44:30,953 - INFO - Chat session created successfully
+2026-02-26 20:44:58,975 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-26 20:45:06,373 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-26 20:45:06,378 - INFO - Message sent successfully
+2026-02-26 20:46:02,820 - INFO - Chat session created successfully
