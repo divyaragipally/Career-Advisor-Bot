@@ -33,6 +33,7 @@ Custom logging module
 
 📂 Project Structure
 Career-Advisor-Bot/
+
 │
 ├── app.py                
 ├── gemini_service.py     
@@ -41,6 +42,7 @@ Career-Advisor-Bot/
 ├── requirements.txt     
 ├── .env                  
 └── README.md
+
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/divyaragipally/Career-Advisor-Bot.git
