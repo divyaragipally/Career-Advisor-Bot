@@ -34,7 +34,6 @@ Custom logging module
 📂 Project Structure
 Career-Advisor-Bot/
 
-│
 ├── app.py                
 ├── gemini_service.py     
 ├── prompt_manager.py     
