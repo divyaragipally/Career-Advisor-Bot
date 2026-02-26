@@ -34,12 +34,12 @@ Custom logging module
 📂 Project Structure
 Career-Advisor-Bot/
 │
-├── app.py                # Streamlit web application
-├── gemini_service.py     # Handles Gemini API requests
-├── prompt_manager.py     # Manages structured prompts
-├── logger.py             # Logging configuration
-├── requirements.txt      # Dependencies
-├── .env                  # API key (not uploaded)
+├── app.py                
+├── gemini_service.py     
+├── prompt_manager.py     
+├── logger.py             
+├── requirements.txt     
+├── .env                  
 └── README.md
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
